@@ -1,2 +1,2 @@
 # PyTorch
-PyTorch Study
+PyTorch入门/深度学习
